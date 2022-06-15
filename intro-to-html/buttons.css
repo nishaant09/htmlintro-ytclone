@@ -1,0 +1,71 @@
+
+            .subscribe-button{
+                background-color: rgb(200, 0, 0);
+                color: white;
+                border: none;
+               padding-top: 10px;
+               padding-bottom: 10px;
+               padding-left: 16px;
+               padding-right: 16px;
+                border-radius: 2px;
+                cursor: pointer;
+                margin-right: 9px;
+                transition: opacity 1s;
+        
+            }
+            .subscribe-button:hover{
+                opacity: 0.7;
+        
+            }
+        
+            .subscribe-button:active{
+        
+                opacity: 0.35;
+        
+            }
+        
+            .join-button{
+                background-color: white;
+                border-color: rgb(5, 123, 227);
+                border-style: solid;
+                border-width: 1.25px;
+                color:rgb(5, 123, 227) ;
+                
+                border-radius: 2px;
+                cursor: pointer;
+                margin-right: 9px;
+                transition: background-color 1s,color 1s;
+                padding-left: 16px;
+                padding-top: 10px;
+                padding-right: 16px;
+                padding-bottom: 10px;
+            }
+        
+            .join-button:hover{
+                background-color: rgb(5, 123, 227) ;
+                color: white;
+            }
+        
+            .join-button:active{
+                opacity: 0.7;
+            }
+        
+            .tweet-button{
+                background-color:rgb(5, 123, 227) ;
+                border-radius: 18px;
+                color: white;
+                height: 36px;
+                border: none;
+                width: 69px;
+                font-weight: bold;
+                cursor: pointer;
+                transition: box-shadow 1s;
+              
+                
+            }
+            .tweet-button:hover{
+                box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
+        
+        
+            }
+        
