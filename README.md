@@ -1,4 +1,4 @@
 # htmlintro-ytclone
+This is a clone of the homepage of Youtube made using HTML-CSS, the main purpose of this project was to apply flexbox and grid.
+The scope of improvement here is the API fetch which i am working on right now, using react.
 
-
-I started learning HTML and CSS and built this project alongside, the videos are static as of now but wwill try to API fetch in the coming days
